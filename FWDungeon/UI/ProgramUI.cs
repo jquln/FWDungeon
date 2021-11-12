@@ -515,12 +515,11 @@ namespace FWDungeon.UI
         public void GameOver()
         {
             Console.WriteLine("You have died! You completed " + roomsCompleted + " rooms");
-            Console.WriteLine(" Press Enter to go back to main menu");
+            Console.WriteLine(" Press Enter to quit");
             Console.ReadLine();
+            continueToRun = false;
+            playerIsAlive = false;
             RunMenu();
         }
-    }
-}
-
     }
 }

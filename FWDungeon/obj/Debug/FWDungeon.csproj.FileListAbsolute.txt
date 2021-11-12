@@ -1,0 +1,8 @@
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\bin\Debug\FWDungeon.exe.config
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\bin\Debug\FWDungeon.exe
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\bin\Debug\FWDungeon.pdb
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\obj\Debug\FWDungeon.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\obj\Debug\FWDungeon.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\obj\Debug\FWDungeon.exe
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\obj\Debug\FWDungeon.pdb
+C:\ElevenFiftyProjects\FWDungeon\FWDungeon\obj\Debug\FWDungeon.csproj.AssemblyReference.cache
